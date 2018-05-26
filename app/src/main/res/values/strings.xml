@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">Trabalho01.1-2018-1</string>
+    <string name="fantasy_app_name">Loja de Tintas</string>
     <string name="action_settings">Settings</string>
+
+    <string name="label_hint_area">Área a ser pintada(m²)</string>
+
+    <string name="label_text_escolha">Escolha:</string>
+    <string name="label_text_lt">Latas</string>
+    <string name="label_text_gl">Galões</string>
+    <string name="label_text_melhor">Melhor combinação</string>
+    <string name="label_btn_calcular">CALCULAR</string>
+
+    <string name="dialog_title_latas">Comprando apenas latas</string>
+    <string name="dialog_title_galoes">Comprando apenas galões</string>
+    <string name="dialog_title_mix">Comprando latas e galões</string>
+
+    <string name="dialog_title_err">Erro</string>
+
+    <string name="dialog_message_err_empty">Preencha o campo da área!</string>
+    <string name="dialog_message_err_rb_unset">Marque uma opção de compra!</string>
+
 </resources>
